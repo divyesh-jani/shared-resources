@@ -1,2 +1,2 @@
-# shared
+# Shared Resources
 A repository to hold all common resources shared across projects.
