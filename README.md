@@ -11,3 +11,4 @@ A repository to hold all common resources shared across projects.
 | <img src='img/email.png' width='32' >                     | Email                 | https://divyeshjani.github.io/shared/img/email.png                |
 | <img src='img/github.png' width='32' >                    | Github                | https://divyeshjani.github.io/shared/img/github.png               |
 | <img src='img/linkedin.png' width='32' >                  | LinkedIn              | https://divyeshjani.github.io/shared/img/linkedin.png             |
+| <img src='img/donate.png' width='32'>                     | Donate                | https://divyeshjani.github.io/shared/img/donate.png               |
